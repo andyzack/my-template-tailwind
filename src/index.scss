@@ -36,4 +36,8 @@ h1 {
 }
 /*! purgecss end ignore */
 
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
 @import 'components/Wrapper/index.css';
